@@ -77,7 +77,7 @@ OWNER_NAME: process.env.OWNER_NAME || "OJO CODERS",
               DESCRIPTION: process.env.DESCRIPTION || "*© ojocoders*",
 // add bot owner name    
 
-        READ_MESSAGE: process.env.READ_MESSAGE || "false",
+        READ_MESSAGE: process.env.READ_MESSAGE || "true",
 // Turn true or false for automatic read msgs
 
                  AUTO_REACT: process.env.AUTO_REACT || "false",
